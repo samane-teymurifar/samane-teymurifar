@@ -1,8 +1,6 @@
-# Hi, I'm Amir Sadri
+# Hi, I'm Samane Teymurifar
 
 I am a software engineer with more than 3 year of experience.
-From the very beginning of my activity until today, because of my great interest in this field, I wanted to gain a lot of knowledge and experience in this field.
-Experience working with Javascript, Typescript, React, React Native, Redux, NextJS and similar technologies in different teams and companies is the basis of my work in this field.
 
 
 <hr />
