@@ -173,7 +173,7 @@ I am a software engineer with more than 3 year of experience.
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-  <a href="mailto:amirsadriofficial@gmail.com" target="_blank">
+  <a href="samane.teymurifar@gmail.com" target="_blank">
     <img
         align="center"
         src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png"
@@ -182,7 +182,7 @@ I am a software engineer with more than 3 year of experience.
         width="55"
     />
   </a>
-  <a href="https://linkedin.com/in/amirsadriofficial" target="_blank">
+  <a href="https://www.linkedin.com/in/samane-teymurifar" target="_blank">
     <img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -191,25 +191,7 @@ I am a software engineer with more than 3 year of experience.
         width="40"
     />
   </a>
-  <a href="https://twitter.com/amirsadri_ir" target="_blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="twitter"
-      height="35"
-      width="40"
-    />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100058040100594" target="_blank">
-    <img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-        alt="facebook"
-        height="35"
-        width="40"
-    />
-  </a>
-  <a href="https://instagram.com/amirsadriofficial" target="_blank">
+  <a href="https://instagram.com/samane.teymurifar?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank">
     <img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -218,7 +200,7 @@ I am a software engineer with more than 3 year of experience.
         width="40"
     />
   </a>
-  <a href="https://wa.me/message/2AF3SX3XOBZEK1" target="_blank">
+  <a href="https://wa.me/qr/VAQMRWGFJ6VCB1" target="_blank">
     <img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
@@ -227,7 +209,7 @@ I am a software engineer with more than 3 year of experience.
         width="40"
     />
   </a>
-  <a href="https://t.me/amirsadriofficial" target="_blank">
+  <a href="https://t.me/STeymurifar" target="_blank">
     <img
         align="center"
         src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-56-512.png"
