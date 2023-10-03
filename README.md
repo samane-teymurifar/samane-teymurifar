@@ -55,14 +55,6 @@ I am a software engineer with more than 3 year of experience.
       height="40"
     />
   </a>
-  <a href="https://ant.design" target="_blank">
-    <img
-      src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png"
-      alt="ant-design"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://styled-components.com" target="_blank">
     <img
       src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png"
@@ -88,14 +80,6 @@ I am a software engineer with more than 3 year of experience.
     />
   </a>
   <!---
-  <a href="https://jquery.com" target="_blank">
-    <img
-      src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png"
-      alt="jquery"
-      width="40"
-      height="40"
-    />
-  </a>
   --->
   <a href="https://reactjs.org" target="_blank">
     <img
@@ -103,14 +87,6 @@ I am a software engineer with more than 3 year of experience.
       alt="react"
       width="40"
       height="40"
-    />
-  </a>
-  <a href="https://reactnative.dev" target="_blank">
-    <img
-      src="https://svgarchive.com/wp-content/uploads/react-native.svg"
-      alt="react-native"
-      width="45"
-      height="43"
     />
   </a>
   <a href="https://nextjs.org" target="_blank">
@@ -129,23 +105,7 @@ I am a software engineer with more than 3 year of experience.
       height="40"
     />
   </a>
-  <a href="https://react-query.tanstack.com" target="_blank">
-    <img
-      src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png"
-      alt="react-query"
-      width="40"
-      height="40"
-    />
-  </a>
   <!---
-  <a href="https://web.dev/progressive-web-apps" target="_blank">
-    <img
-      src="https://www.pinclipart.com/picdir/big/325-3253916_build-a-pwa-using-workbox-progressive-web-app.png"
-      alt="pwa"
-      width="50"
-      height="40"
-    />
-  </a>
   --->
 </p>
 
@@ -222,11 +182,3 @@ I am a software engineer with more than 3 year of experience.
 
 <hr /> 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=amirsadriofficial&show_icons=true&theme=tokyonight&hide_border=true" width="415">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amirsadriofficial&theme=tokyonight&hide_border=true" width="415">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsadriofficial&theme=tokyonight&hide_border=true&layout=compact" width="415">
-  <!--   
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirsadriofficial&repo=Cryptocurrency-Exchange&theme=tokyonight&hide_border=true" width="415">
-   -->
-</p>
