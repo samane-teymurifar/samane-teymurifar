@@ -1,6 +1,6 @@
 # Hi, I'm Samane Teymurifar
 
-I am a software engineer with more than 3 year of experience.
+I am a software engineer with more than 1 year of experience.
 
 
 <hr />
