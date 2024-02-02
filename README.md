@@ -1,7 +1,7 @@
 # Hi, I'm Samane Teymurifar
 
-I am a software engineer with more than 1 year of experience.
-
+I am a software engineer with more than 2 year of experience.
+As a front-end developer, I'm passionate about creating beautiful and functional user interfaces that help businesses achieve their goals. I specialize in HTML, CSS, JavaScript, and frameworks like React and NextJs. I'm constantly learning new skills and staying up-to-date with the latest web technologies to provide the best solutions for my clients. Collaborating with cross-functional teams, I deliver high-quality projects that exceed client expectations.
 
 <hr />
 
