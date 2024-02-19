@@ -11,8 +11,8 @@ As a front-end developer, I'm passionate about creating beautiful and functional
     <img
       src="https://cdn.worldvectorlogo.com/logos/html-1.svg"
       alt="html"
-      width="40"
-      height="40"
+      width="20"
+      height="20"
     />
   </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
